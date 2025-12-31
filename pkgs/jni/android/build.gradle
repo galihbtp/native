@@ -49,7 +49,7 @@ android {
     // to bump the version in their app.
     compileSdk 35
 
-    ndkVersion flutter.ndkVersion
+    ndkVersion "27.0.12077973"
 
     // Invoke the shared CMake build with the Android Gradle Plugin.
     externalNativeBuild {
